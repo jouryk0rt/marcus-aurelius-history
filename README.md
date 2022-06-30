@@ -45,8 +45,9 @@ The use of a favicon could also be implemented.
 No Bugs as far as is known.
 
 ##Testing
-
-NIET AF
+Lighthouse performance test -
+![Lighthouse test](/assets/css/images/rapport-lighthouse.png)
+https://web.dev/measure/?url=https%3A%2F%2Fjouryk0rt.github.io%2Fmarcus-aurelius-history%2F
 
 ## 5 Planes
 NIET AF
