@@ -46,7 +46,7 @@ NIET AF
 ## Credits
 ### Content
 I have written the content and gather the images through these sources:
-<a href="https://www.goodreads.com/author/quotes/17212.Marcus_Aurelius"></a>
+https://www.goodreads.com/author/quotes/17212.Marcus_Aurelius
 https://www.discoverwalks.com/blog/rome/top-10-facts-about-marcus-aurelius/ (rewritten)
 ### Font
 Font from: https://fonts.google.com/specimen/Source+Sans+Pro
