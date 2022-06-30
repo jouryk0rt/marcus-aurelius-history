@@ -2,6 +2,8 @@
 
 My first website is devote to the Old Roman Emperor and Philosophist Marcus Aurelius. The main goal for the website is to get the visitors to know more about him. Particularly those who are interested in Philosophy and Ancient Poltics. It's a one-page website design with 4 sections; Home, facts, quotes and contact.
 
+
+
 ## Features
 
 ### Navigation Bar
